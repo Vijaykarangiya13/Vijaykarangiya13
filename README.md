@@ -51,9 +51,9 @@ Tech: HTML, CSS, Bootstrap
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vijaykarangiya13/Vijaykarangiya13/output/github-contribution-grid-snake.svg" />
-</p>
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ---
 
